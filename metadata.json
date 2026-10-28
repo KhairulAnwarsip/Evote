@@ -1,0 +1,6 @@
+{
+  "name": "eOSIS - Sistem Pemilihan OSIS Digital",
+  "description": "Aplikasi Single Page Application (SPA) Pemilihan Ketua & Wakil Ketua OSIS modern dengan Vue 3, Bootstrap 5, Chart.js, dan Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
